@@ -1,0 +1,22 @@
+{
+  "name": "mermaid-node",
+  "version": "0.1.0",
+  "description": "Try to run mermaid from server side",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerlong/mermaid-node.git"
+  },
+  "keywords": [
+    "mermaid"
+  ],
+  "author": "Tyler Long <tyler4long@gmail.com> (https://github.com/tylerlong)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerlong/mermaid-node/issues"
+  },
+  "homepage": "https://github.com/tylerlong/mermaid-node#readme"
+}
